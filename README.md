@@ -323,7 +323,7 @@ Future improvements could include:
 
 ## 👨‍💻 Author
 
-**Jaanu**
+**Jahnavika**
 
 Built as a hands-on **FastAPI CRUD API project** for learning and interview preparation.
 
